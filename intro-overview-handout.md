@@ -70,7 +70,7 @@ It depends on the domain, the circumstance, and the costs/benefits involved.
 
 **Specificity** = #TN/#(TN + FP) .When it’s actually no, how often does it predict no?
 
-**Precision** = #TP/# of predicted yes = # True Positives / (#True Positives + #False Positives). the higher this number is, the more you were able to pinpoint all positives correctly. If this is a low score, you predicted a lot of positives where there were none. 
+**Precision** = TP/predicted yes = # True Positives / (#True Positives + #False Positives). the higher this number is, the more you were able to pinpoint all positives correctly. If this is a low score, you predicted a lot of positives where there were none. 
 
 
 
