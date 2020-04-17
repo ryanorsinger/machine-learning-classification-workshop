@@ -59,7 +59,7 @@ Machine learning takes in data (and sometimes answers/labels for some data) and 
 - Semi-supervised = mixture of supervised/unsupervised
 - Reinforcement learning  = use algorithm A to "grade"  the results from algorithm B
 
-### Main Challenges /of Machine Learning
+### Main Challenges of Machine Learning
 
 - Garbage in, garbage out
 - Insufficient quantity of data

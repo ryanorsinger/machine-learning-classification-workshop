@@ -1,6 +1,6 @@
 ## Outline for Machine Learning Workshop
 
-### Introductions
+### Introduction
 
 Start my own screen share and *Share the Agenda*
 
