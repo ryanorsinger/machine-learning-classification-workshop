@@ -10,7 +10,7 @@
 
 - Focus on student outcomes
 - Placement services and quality of network
-- Immersion works. Full-time, live, in-person instruction for 5 months works.
+- Immersion works. Full-time, live instruction for 5 months works.
 - Projects simulate the work environment from real world data to presenting findings
 
 ### What is Data Science?
